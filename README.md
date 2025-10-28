@@ -31,7 +31,7 @@ gcc saveme16.c -o translator
 
 ### **Running**
 ```bash
-./translator < inputfile > outputfile
+./translator < inputfile > 
 ```
 
 - **inputfile:** your program written in the self-derived language (e.g., `input.txt`)  
