@@ -26,7 +26,7 @@ This project demonstrates the fundamentals of **compiler and assembler design**,
 
 ### Compilation
 ```bash
-gcc saveme16.c -o translator
+gcc main.c -o translator
 ```
 
 ### Usage
@@ -112,7 +112,7 @@ _start:
 
 ```
 translator/
-├── saveme16.c        # Main translator source
+├── main.c        # Main translator source
 ├── translator1.h     # Header file
 ├── README.md         # Documentation
 └── .gitignore
