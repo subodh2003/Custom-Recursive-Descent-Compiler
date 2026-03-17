@@ -1,4 +1,4 @@
-# 🔧 Self-Derived Language → Assembly Language Translator
+# 🔧 Custom Recursive-Descent Compiler
 
 A translator written in **C** that converts a **custom-designed programming language** into **Intel x86 (32-bit) assembly**.  
 This project demonstrates the fundamentals of **compiler and assembler design**, including parsing, control flow translation, and assembly code generation.
