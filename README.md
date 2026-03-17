@@ -140,5 +140,5 @@ Unauthorized reproduction or redistribution is not permitted.
 
 **Author:** Subodh Wagh  
 **Email:** subodhwagh1122@gmail.com  
-**LinkedIn:** [linkedin.com/in/subodh-wagh-81541021b](https://www.linkedin.com/in/subodh-wagh-81541021b)  
+**LinkedIn:** [linkedin.com/in/subodh-wagh](https://www.linkedin.com/in/subodh-wagh)  
 **GitHub:** [github.com/subodh2003](https://github.com/subodh2003)
